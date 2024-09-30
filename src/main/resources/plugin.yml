@@ -1,0 +1,6 @@
+main: me.eths.pronametags.ProNameTagsPlugin
+name: ProNametags
+version: 1.0
+author: Eths
+depend:
+  - packetevents
